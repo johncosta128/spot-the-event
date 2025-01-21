@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Events Around You</title>
+    <title>Find Events Near You</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
 
     <main>
         <div id="location-container">
-            <button onclick="getLocation()">Get Events Near Me</button>
+            <button onclick="getLocation()">Find Events Near Me</button>
             <p id="location-info"></p>
         </div>
         
